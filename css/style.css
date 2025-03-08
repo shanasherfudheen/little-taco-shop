@@ -376,7 +376,6 @@ tfoot td {
 
 #thankyou {
     color: #000;
-    font-size: large;
+    font: inherit;
     text-align: center;
-    padding-top: 100px;
 }
